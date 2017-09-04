@@ -9,7 +9,7 @@
 # (ii) Building cost data downloaded from Statistics New Zealand
 # (iii) Concordance data
 
-# Sale and price data from Core Logic
+# Sale and price data from Core Logic. These files need to obtained from MBIE
 # (i) Sales.rda, Dwelling.rda
 
 # Building costs data is:
